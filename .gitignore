@@ -1,0 +1,9 @@
+/.idea
+*.log
+.idea/
+docker/nginx/log/access.log
+docker/nginx/log/error.log
+docker/nginx/log/application.access.log
+.env
+docker/nginx/logs/api_access.log
+docker/nginx/logs/error.log
